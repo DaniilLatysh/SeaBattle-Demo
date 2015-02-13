@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_25"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry exported="true" kind="lib" path="mail-1.4.1.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="C:/All files/Java/Проекты eclipse/SeaBattle-Demo/activation-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="DataBase_Main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/All files/Java/Проекты eclipse/SeaBattle-Demo/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/All files/Java/Проекты eclipse/LoginBox/mysql-connector-java-5.1.13/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
